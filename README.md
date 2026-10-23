@@ -382,5 +382,3 @@ One `t3.micro`, a handful of Lambda invocations and an API Gateway endpoint cost
 **Sharon Wainaina**: systems and cloud engineer with AWS and OCI certifications. [LinkedIn](https://www.linkedin.com/in/sharon-wainaina-556206395/)
 
 Released under the [MIT License](LICENSE).
-#   s e r v i c e n o w - a w s - i n t e g r a t i o n - h u b  
- 
