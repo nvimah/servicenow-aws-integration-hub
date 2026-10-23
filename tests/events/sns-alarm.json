@@ -1,0 +1,10 @@
+{
+  "Records": [
+    {
+      "EventSource": "aws:sns",
+      "Sns": {
+        "Message": "{\"AlarmName\":\"sn-demo-server-status-check-failed\",\"NewStateValue\":\"ALARM\",\"NewStateReason\":\"Manual test for ServiceNow integration\",\"Trigger\":{\"Dimensions\":[{\"name\":\"InstanceId\",\"value\":\"i-0123456789abcdef0\"}]}}"
+      }
+    }
+  ]
+}
